@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "fname": "",
+      "fprice": "",
+      "id": 1
+    },
+    {
+      "fname": "Palav",
+      "fprice": "50",
+      "id": 3
+    },
+    {
+      "fname": "Veg biriyani",
+      "fprice": "70",
+      "id": 5
+    },
+    {
+      "fname": "",
+      "fprice": "",
+      "id": 6
+    }
+  ]
+}
